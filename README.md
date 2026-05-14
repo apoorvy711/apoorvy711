@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 DATA-ANALYST || FRONTEND-DEVELOPER<br>
 
 
