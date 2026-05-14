@@ -1,5 +1,9 @@
+
 #  About Me:
-DATA-ANALYST || FRONTEND-DEVELOPER<br>
+Frontend Developer || Data Analyst<br>
+ECE Student at TIET, Patiala.<br>
+Focused on Web Development, DBMS, and scalable applications.<br>
+Learning and building through projects and problem solving.
 
 
 ## 🌐 Socials:
